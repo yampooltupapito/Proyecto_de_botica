@@ -1,0 +1,11 @@
+-- =========================================
+-- Sistema de Botica - schema.sql
+-- =========================================
+-- Las tablas son creadas y actualizadas automaticamente por Hibernate
+-- gracias a la propiedad spring.jpa.hibernate.ddl-auto=update
+-- definida en application.properties.
+--
+-- Este archivo se mantiene disponible para scripts DDL adicionales
+-- (indices, constraints extra, etc.) si se requieren en el futuro.
+-- Se ejecuta despues de que Hibernate genera el esquema
+-- (spring.jpa.defer-datasource-initialization=true).
